@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background: orange;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "Monaco", monospace;  
+
+  }
+  
+  h2 {
+    font-size: 30px;
+    font-family: "Monaco", monospace;  
+  }
+  
+  p {
+    font-size: 20px;
+    font-family: "Monaco", monospace;  
+  }
